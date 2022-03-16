@@ -174,7 +174,7 @@ WISH에서는 기출질문 중 상황에 적합한 질문을 추천해드립니�
 <br/><br/>
 
 # 5. 기술 특이점
-[>>보러가기<<](https://lab.ssafy.com/s06-webmobile1-sub2/S06P12E201/-/blob/dev/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%83%81%EC%84%B8.md)
+[>>보러가기<<](https://github.com/hyuna919/WISH/blob/dev/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EC%83%81%EC%84%B8.md)
 
 <br/><br/>
 
